@@ -75,21 +75,7 @@ End-to-end automation workflow built in N8N that manages t-shirt requests submit
 
 ---
 
-## 💼 Experience
 
-**RPA Developer Semi-Senior** · Ctrl 365 *(Jun 2025 – Present)*
-Bot development in Blue Prism, end-to-end process analysis and optimization.
-
-**RPA Developer** · NTT Data *(May 2022 – May 2025)*
-Designed and delivered 5+ RPA & Low-Code solutions improving client productivity by 50%. Redesigned Blue Prism framework and created onboarding plan for new developers.
-
----
-
-## 🎓 Education
-
-**Bachelor of Systems Engineering** · Universidad Tecnológica del Perú · 2021
-
----
 
 *Feel free to explore each project folder for full documentation and source code.*
 
@@ -169,21 +155,6 @@ Workflow de automatización end-to-end construido en N8N que gestiona solicitude
 | Blue Prism Certified Professional Developer | Jul 2025 |
 | Automation Anywhere Certified Advanced RPA Professional (V11.0) | Feb 2022 |
 
----
 
-## 💼 Experiencia
-
-**RPA Developer Semi-Senior** · Ctrl 365 *(Jun 2025 – Actualidad)*
-Desarrollo de bots en Blue Prism, análisis de procesos end-to-end y optimización.
-
-**RPA Developer** · NTT Data *(May 2022 – May 2025)*
-Diseño y entrega de más de 5 soluciones RPA y Low-Code que mejoraron la productividad de clientes en un 50%. Rediseño del framework de Blue Prism y creación del plan de onboarding para nuevos desarrolladores.
----
-
-## 🎓 Educación
-
-**Bachiller en Ingeniería de Sistemas** · Universidad Tecnológica del Perú · 2021
-
----
 
 *Explora cada carpeta del repositorio para ver la documentación completa y el código fuente.*
