@@ -1,4 +1,4 @@
-#EN
+EN
 ---
 
 # 👩‍💻 Karina Carmin — Automation Portfolio
@@ -95,7 +95,7 @@ Designed and delivered 5+ RPA & Low-Code solutions improving client productivity
 
 ---
 ---
-#ES
+ES
 
 # 👩‍💻 Karina Carmin — Portafolio de Automatización
 
